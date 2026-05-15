@@ -1,3 +1,4 @@
+-- Creating a database retail and a table online_retail for raw data
 CREATE DATABASE IF NOT EXISTS retail;
 USE retail;
 
