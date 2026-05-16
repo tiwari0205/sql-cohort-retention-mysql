@@ -176,14 +176,14 @@ Computed column:
 
 ### Step 1 — Create schema & raw table
 Run:
-- `sql/01_schema.sql`
+- `sql/1. schema.sql`
 
 ### Step 2 — Import CSV into raw table
 - Follow the steps to import data mentioned above
 
 ### Step 3 — Clean and create analysis view
 Run:
-- `sql/02_cleaning.sql`
+- `sql/2. cleaning_data.sql`
 
 ### Quick validation queries
 ```sql
